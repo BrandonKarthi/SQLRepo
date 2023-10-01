@@ -1,4 +1,4 @@
-package com.test.servlet;
+pacom.test.servlet;
 
 import javax.servlet.Servlet;
 import javax.servlet.ServletConfig;
